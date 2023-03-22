@@ -3,8 +3,8 @@ public class Ex03_12 {
         char a, b, c, d, e;
 
         a = 'A';
-        System.out.printf("%c \t", a);
-        System.out.printf("%d \n", (int) a);
+        System.out.printf(" %c \t", a);
+        System.out.printf(" %d \n", (int) a);
 
         b = 'a';
         c = (char) (b + 1);
