@@ -9,7 +9,8 @@ public class Ex08_04 {
         dd[0] = 100;
         int i;
 
-        for (i = 0; i < 4; i++)
+        System.out.println("aa 몇개? : "+ aa.length);
+        for (i = 0; i < aa.length; i++)
             System.out.printf("aa[%d]==>%d\t", i, aa[i]);
         System.out.printf("\n");
 
