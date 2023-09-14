@@ -6,7 +6,7 @@ public class Quiz_03 {
             for (k = 1; k < 10; k++) {
                 System.out.printf("%3d X %d = %d", i, k, i * k);
             }
-            System.out.printf("\n");
+            System.out.println("\n");
         }
     }
 }
